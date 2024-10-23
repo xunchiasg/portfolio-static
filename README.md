@@ -31,21 +31,21 @@
 
 <h3 align = left>About this repo</h3>
 Hello There! This is the repository for my portfolio page (as of 2024). The website serves not only as my showcase portfolio but also as a personal development project on its own.
-
+<br>
 On a related note, it also serves as a mental container for some of my coding ideas that I wanted to execute but lacked the technical ability then, as well as my general interest in topics such as Machine Learning and Location Intelligence.
 
 Enjoy your stay!
 
 *Fueled by many mistakes, r/oneorangebraincell and youtube tutorial videos 
 
-<h3 align = left>Built with</h3>
-**To be added**
-<h3 align = left>Planned Improvements</h3>
-**To be added**
+
 <h3 align = left>Contact</h3>
-**To be added**
+
+- [LinkedIn](https://www.linkedin.com/in/xunc/)
+- [Github](https://github.com/xunchiasg)
+- [Portfolio](https://xunchia.com/)
 
 <!--  BREAK -->
 
 <h4 align = left>Updated</h4>
-*Last updated 1st October 2024*
+*Last updated 23rd October 2024*
